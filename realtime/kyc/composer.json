@@ -1,0 +1,16 @@
+{
+    "name": "realtime/kyc",
+    "description": "a kyc project",
+    "authors": [
+        {
+            "name": "pushpendra3873",
+            "email": "pushpendra@myrealdata.net"
+        }
+    ],
+    "require": {},
+     "autoload": {
+    "psr-4": {
+            "realtime\\kyc\\":"packages\\RealTime\\kyc\\src\\"
+        }
+     }
+}
